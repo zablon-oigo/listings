@@ -1,3 +1,9 @@
+## Tech Stack
+
+**Client:** HTML, JS, Bootstrap5
+
+**Server:** Python, Django
+
 # Screenshots
 ![Screenshot 2023-12-14 at 16-14-12 New Listing Listings](https://github.com/zablon-oigo/listings/assets/143833326/6479fa28-3ca8-4492-970c-d40a3bb3c4ae)
 ![Screenshot 2023-12-14 at 16-13-45 All Bikes Listings](https://github.com/zablon-oigo/listings/assets/143833326/9bda7112-25c4-4e8e-bdd5-f61fd55a6630)
